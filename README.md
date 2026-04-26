@@ -278,7 +278,7 @@ asd-detection-ml/
 ## Author
 
 **Srighanesh A S**  
-B.Tech ECE — SRM Institute of Science and Technology (CGPA 9.35)  
+B.Tech ECE — SRM Institute of Science and Technology
 Market Analyst @ Siemens, Chennai
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Srighanesh-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/srighaneshsrivathsan)
