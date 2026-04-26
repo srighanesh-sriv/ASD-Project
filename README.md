@@ -43,7 +43,7 @@ The system analyses 21 features — spanning demographic data, medical history, 
 
 This project was reviewed and approved by the **SRM Medical Council Ethics Committee**.
 
-- Clearance valid for **3 years** from date of approval
+- Clearance valid upto 2027
 - Data handling complies with institutional medical research standards
 - Designed to assist, not replace, qualified clinical assessment
 
