@@ -7,12 +7,11 @@
   <img src="https://img.shields.io/badge/AUC-0.99-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/Ethical%20Clearance-SRM%20Medical%20Council-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square"/>
 </p>
 
 # Detection of Autism Spectrum Disorder in Children — Machine Learning Pipeline
 
-> Early detection of ASD in children under 2 years using PCA-enhanced machine learning. Clinically validated with ethical clearance from SRM Medical Council (valid 3 years). Deployed as a prototype web interface for real-time screening and therapy recommendation.
+> Early detection of ASD in children under 2 years using PCA-enhanced machine learning. Deployed as a prototype web interface for real-time screening and therapy recommendation.
 
 ---
 
@@ -37,8 +36,6 @@
 Autism Spectrum Disorder (ASD) affects social interaction, communication, and behaviour. Current clinical diagnosis relies heavily on subjective behavioural assessment, often delayed until ages 3–4. This project addresses the gap: **can machine learning enable reliable early screening before age 2?**
 
 The system analyses 21 features — spanning demographic data, medical history, and behavioural screening scores — to predict ASD likelihood. A positive prediction triggers **personalised therapy recommendations**, making the tool actionable for clinicians and parents alike.
-
-Key differentiator: this project was granted **formal ethical clearance from the SRM Medical Council**, meaning it meets the standards required for clinical research involving patient data in children.
 
 ---
 
