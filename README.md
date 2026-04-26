@@ -287,10 +287,4 @@ Market Analyst @ Siemens, Chennai
 
 ---
 
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 <p align="center"><i>Built with the goal of making early ASD intervention more accessible and evidence-based.</i></p>
