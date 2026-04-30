@@ -26,7 +26,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [End Results](#end-results)
+- [End Results](#end--results)
 - [Limitations](#limitations)
 - [Future Work](#future-work)
 - [References](#references)
