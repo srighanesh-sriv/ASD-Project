@@ -141,7 +141,7 @@ PCA was selected as the primary dimensionality reduction approach because:
 
 ---
 
-## Results & Visualisations
+## Observations & Visualisations
 
 ### Comorbidity Correlation Heatmap
 
@@ -546,7 +546,7 @@ asd-detection-ml/
 
 ---
 
-## Screenshots
+## End Result
 
 ### Web Interface — Home Page
 ![Home Page](screenshots/home.png)
