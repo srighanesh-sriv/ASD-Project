@@ -21,7 +21,7 @@
 - [Ethical Clearance](#ethical-clearance)
 - [Dataset](#dataset)
 - [Methodology](#methodology)
-- [Observations & Visualisations](#results--visualisations)
+- [Observations & Visualisations](#observations--visualisations)
 - [Source Code](#source-code)
 - [Installation](#installation)
 - [Usage](#usage)
